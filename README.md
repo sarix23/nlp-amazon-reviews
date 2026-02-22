@@ -19,7 +19,7 @@ Everything is implemented and reproducible from the notebook:
 - explainability analyses (SHAP + gradient-based attribution)
 - tables/plots and the final comparison
 
-> **Main file:** `Amazon_Reviews_Sentiment.ipynb`  
+> **Main file:** `Amazon Reviews.ipynb`  
 (If your notebook has a different name, update the paths/commands below accordingly.)
 
 ---
