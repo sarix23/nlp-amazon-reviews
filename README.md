@@ -1,4 +1,4 @@
-# Amazon Reviews — Sentiment Classification (Notebook Project)
+# Amazon Reviews — Sentiment Classification
 
 This repository contains a **single-notebook** NLP project on **sentiment classification** for Amazon product reviews.  
 The goal is to compare progressively stronger text representations and models—starting from classical baselines (e.g., **TF-IDF + SVM**) up to contextual encoders with a fine-tuned **DistilBERT**—and to complement performance results with **explainability** techniques (**SHAP** and **gradient-based attribution**).
